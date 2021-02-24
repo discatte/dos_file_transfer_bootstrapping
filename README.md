@@ -1,4 +1,7 @@
-Notes on DOS file transfer bootstrapping, sourced from various bookmarks, Nokia64, foone, and interweb searches.
+Notes on DOS file transfer bootstrapping
+========================================
+
+*sourced from various bookmarks, Nokia64, foone, and interweb searches.*
 
 * manually type in tcomtxt.asm from https://www.kermitproject.org/mskermit.html (mirror http://ftp.vim.org/ftp/pub/networking/kermit/a/tcomtxt.asm)
 
