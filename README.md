@@ -1,4 +1,4 @@
-Notes on DOS file transfer bootstrapping
+:floppy_disk: Notes on DOS file transfer bootstrapping :computer:
 ========================================
 
 *sourced from various bookmarks, Nokia64, foone, and interweb searches.*
