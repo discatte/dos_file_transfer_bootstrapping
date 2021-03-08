@@ -8,7 +8,9 @@
 `COPY CON TCOM.COM` <kbd>Enter</kbd>
   
 `XPHPD[0GG0G,0G51G31GB'(G+(G:u'0g?(G>(GE1G@arwIV_F*=US@<1|_,5wXNg-7muTu(4` <kbd>Enter</kbd>
+
 `1m0ss1k260s@3G1g360@3G0i7t2g3A1g350@3G2E1=0C1g350@3T2M0^\1g3>0@3T=1s2g0T` <kbd>Enter</kbd>
+
 `1g3;0@3ToN2g391g0t@3G0^F1k0s2?0@3T4` <kbd>Enter</kbd>
 
 <kbd>Ctrl</kbd>+<kbd>Z</kbd>
