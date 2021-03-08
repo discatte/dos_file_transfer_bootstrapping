@@ -13,7 +13,8 @@
 
 `1g3;0@3ToN2g391g0t@3G0^F1k0s2?0@3T4` <kbd>Enter</kbd>
 
-<kbd>Ctrl</kbd>+<kbd>Z</kbd> <kbd>Enter</kbd>
+<kbd>Ctrl</kbd>+<kbd>Z</kbd>
+<kbd>Enter</kbd>
 
 ---
 
